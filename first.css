@@ -1,0 +1,507 @@
+/* *{
+    border: 1px solid aqua;
+} */
+.calling_icon {
+    width: 30px;
+}
+
+.cl {
+    width: 100%;
+}
+
+
+.bg-dark1 {
+    background-color: #244AFF !important;
+}
+
+/* .rrr {
+    justify-content: center;
+    color: white !important;
+    font-weight: 500;
+    background-color: #244AFF;
+} */
+
+.rrr a {
+    justify-content: center;
+    color: white !important;
+    font-weight: 500;
+    background-color: #244AFF;
+}
+
+
+.navbar_nav {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0%;
+}
+
+.nav_clr {
+    align-items: center;
+    background-color: #244AFF;
+    color: white;
+    font-weight: 500;
+}
+
+.nav_link {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.nav_item {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.nav_link:hover {
+    color: yellow;
+}
+
+/* .market{
+    t: center;
+} */
+.main_header {
+    /* margin-top: 1px; */
+    margin-bottom: 0%;
+    background: linear-gradient(90deg, rgb(2 0 36 / 29%) 0%, rgb(9 23 121 / 57%) 36%, rgb(0 212 255 / 0%) 100%), url("techno.jpg");
+    /* height: 600px; */
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.cform {
+    /* background-color: #fbb962; */
+    background-color: #1c94d1;
+
+}
+
+.we_tech h1 {
+    font-weight: 700;
+    color: rgb(194, 201, 208);
+    padding-bottom: 8px;
+}
+
+
+.btn_know button {
+    border-radius: 0%;
+    size: 20px;
+    background-color: #244AFF;
+    color: azure;
+    font-size: 16px;
+    /* border: 2px solid black; */
+}
+
+.world p {
+    font-size: 20px;
+    color: #232323;
+    font-weight: 700;
+}
+
+.smt_button {
+    text-align: center;
+    width: 100%;
+}
+
+.numberr {
+    padding-top: 5px;
+    padding-bottom: 3px;
+    text-align: center;
+    width: 100%;
+    margin-top: 0%;
+    background-color: #244AFF;
+    color: white;
+}
+
+.numberr h5 {
+    padding: 5px;
+}
+
+.erros_list_ {
+    padding: 80px 0px 40px;
+}
+
+.bgbtn1 {
+    background-color: #244AFF !important;
+    font-weight: 600 !important;
+    color: white !important;
+}
+
+.eros_form {
+    padding: 20px;
+}
+
+.eros_form input {
+    height: 45px;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 0px;
+    border: none;
+}
+
+.eros_form textarea {
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 0px;
+    border: none;
+}
+
+.cont_frm {
+    margin-top: 15px;
+    padding: 30px;
+}
+
+.about_sam {
+    color: black;
+    font-weight: 400;
+}
+
+.abt_er {
+    padding: 30px;
+    position: relative;
+    left: 80px;
+    z-index: 1;
+    background-color: white;
+}
+
+.noida_exten h1 {
+    color: #244AFF;
+    font-weight: 700;
+}
+
+.parag p {
+    color: darkgray;
+}
+
+.kn_m_btn button {
+    background-color: #244AFF;
+    color: aliceblue;
+    font-weight: 700;
+}
+
+.card_services {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #dedede;
+    /* margin-top: 30px; */
+}
+
+.tp_for_more button {
+    background-color: #244AFF;
+    color: aliceblue;
+    font-weight: 700;
+}
+
+.crd_btn a {
+    background-color: #244AFF;
+    color: aliceblue;
+    /* font-weight: 700; */
+}
+
+.our_servicess {
+    text-align: center;
+    font-weight: 700;
+    padding: 10px 0px 10px 0px;
+    /* padding: 10px; */
+    font-size: 30px;
+    /* background-color: #244AFF; */
+    /* background-color: #dedede; */
+    margin-bottom: 20px;
+}
+
+.first_rw {
+    padding: 20px;
+}
+
+.card {
+    border: none !important;
+}
+
+.eros_advantage h2 {
+    background-color: #244AFF;
+    color: white;
+}
+
+.list_menu li {
+    font-weight: 500;
+    margin-top: 2px;
+}
+
+.footer {
+    background-color: #263575;
+}
+
+.about_us_ {
+    font-weight: 600;
+    color: white;
+    margin-top: 20px;
+}
+
+
+
+.eros_group {
+    color: white;
+}
+
+.cllll {
+    padding: 10px;
+    font-size: 22px !important;
+    width: 45px;
+    text-align: center;
+    text-decoration: none;
+    margin: 20px 8px 0px 0px;
+    border-radius: 50%;
+    background-color: #fff;
+}
+
+.footer_ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.footer_ul a {
+    color: white;
+    font-weight: 600;
+}
+
+.footer_ul hr {
+    color: white;
+    font-weight: 200;
+}
+
+.footer_sclll span {
+    color: white;
+    font-size: 20px;
+}
+
+.footer_sclll p {
+    color: white;
+    font-weight: 600;
+    margin-left: 10px;
+}
+
+
+.ftr_last {
+    margin-bottom: px;
+}
+
+.last {
+    justify-content: center;
+    font-weight: 500;
+}
+
+.socail_icon_abj {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    display: flex;
+}
+
+.socail_icon_abj li {
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    background-color: #ffffff;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 22px;
+    margin-right: 5px;
+}
+
+.socail_icon_abj li a {
+    color: #232323;
+}
+
+.navbar-brand {
+    display: none;
+}
+
+/* 244AFF */
+.tgler_icon {
+    width: 20px;
+    height: 20px;
+    background-color: #244AFF;
+    /* color:#244AFF; */
+}
+
+.first_nav_lst li a {
+    color: white !important;
+}
+
+.nav-item a:hover {
+    color: black !important;
+    /* font-size: 18px; */
+    /* padding: 0px; */
+    background-color: #1c94d1;
+}
+
+.btn_know button:hover {
+    /* font-size:20px ; */
+    background-color: black;
+    color: white;
+}
+
+.crd_padding
+{
+    transition: .6s ease-in-out;
+}
+.crd_padding:hover {
+    /* background-color: blue;
+    transition: background-color 0.9s ease;
+    padding: 10px;
+    transition: padding 0.9s ease;      */
+    transform: scale(1.02);
+    background-color: #1c94d1;
+    padding: 5px;
+    font-size: 15px;
+
+}
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+    .mble_view {
+        height: auto;
+        width: 100%;
+        display: block;
+        margin: auto;
+    }
+
+    .image_mobile {
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .abt_er {
+        left: 1px;
+        margin: 1px;
+        padding: 0;
+
+    }
+
+    .navbar_nav {
+        display: block;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+
+
+    .lg1 {
+        max-width: 95%;
+        max-height: 100%;
+    }
+
+    .a11 {
+        display: none;
+    }
+
+    .map2 {
+        width: 100%;
+        height: 250px;
+        padding: 10px;
+    }
+
+    .parag {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .noida_exten h1 {
+        font-size: 22px;
+
+    }
+
+    .about_sam h6 {
+        font-weight: 700;
+        margin-top: 7px;
+        font-size: 15px;
+        color: dimgray;
+    }
+
+
+    .abt_er {
+        box-shadow: none !important;
+        padding: 2px;
+    }
+
+    .footer_sclll p {
+        margin: 1px;
+        font-weight: 400;
+        margin-left: 10px;
+    }
+
+    .cont_frm {
+        margin-top: 35px;
+        padding: 2px;
+    }
+
+    .main_header {
+        /* height: 510px; */
+        padding-bottom: 20px;
+    }
+
+    .about_sam {
+        margin-top: 15px;
+    }
+
+    .masterplan_ a {
+        font-size: 20px;
+        padding: 0px;
+    }
+
+    .masterplan_ {
+        padding-bottom: 30px;
+    }
+
+    .last {
+        padding: 15px 15px 15px 15px;
+    }
+
+    .about_us_ {
+        margin-top: 0px;
+    }
+
+    .abt_us2 {
+        margin-top: 50px;
+    }
+
+    .bg-dark1 {
+        background-color: #ffffff !important;
+    }
+
+    .navbar-toggler {
+        border: 1px solid #7f7f7f !important;
+    }
+
+    .navbar-brand {
+        display: block;
+        width: 50%;
+    }
+
+    .nav-item a {
+        color: #fff;
+    }
+
+
+    /* .rrr{
+        background-color: #244AFF !important;
+    }  */
+
+    .bg-dark1 {
+        background-color: #244AFF !important;
+    }
+
+    .crd_padding {
+        margin-bottom: 17px;
+    }
+}
